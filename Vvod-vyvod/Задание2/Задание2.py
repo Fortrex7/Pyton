@@ -1,0 +1,8 @@
+print (" Raspolozhite v pravilnom poryadke etapy razvitija cheloveka: ")
+print (" Homo erectus, Homo sapiens sapiens, Austrolopithecus, Homo sapiens neanderthalensis, Homo habilis")
+a = input ("1. ")
+b = input ("2. ")
+c = input ("3. ")
+d = input ("4. ")
+e = input ("5. ")
+print (a, b, c, d, e, sep = '=>')
